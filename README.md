@@ -22,7 +22,7 @@ This repository provides an overview and implementation details of various Indic
 
 ---
 
-## 2. facebook/mms-tts-hin / facebook/mms-tts-guj
+## 2. facebook/mms-tts-hin & facebook/mms-tts-guj
 - **Size**: 150-160 MB
 - **Supported Languages**: Hindi (Separate models for other languages)
 - **Inputs**: Text
