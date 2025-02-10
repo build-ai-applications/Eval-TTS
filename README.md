@@ -10,7 +10,7 @@ This repository provides an overview and implementation details of various Indic
 - **Supported Languages**: 20 Indic languages
 - **Inputs**: Text, Voice description
 - **Output**: Audio
-- **Output**: Audio <audio controls src="Samples/indic_tts_out.wav" title="Title"></audio>
+- **Output**: Audio <audio controls src="./Samples/indic_tts_out.wav" title="Title"></audio>
 - **Results**:
   - ✅ Very natural and clear audio
   - ✅ Good accent
