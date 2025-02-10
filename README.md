@@ -10,6 +10,7 @@ This repository provides an overview and implementation details of various Indic
 - **Supported Languages**: 20 Indic languages
 - **Inputs**: Text, Voice description
 - **Output**: Audio
+- **Output**: Audio <audio controls src="Samples/indic_tts_out.wav" title="Title"></audio>
 - **Results**:
   - ✅ Very natural and clear audio
   - ✅ Good accent
@@ -57,10 +58,13 @@ This repository provides an overview and implementation details of various Indic
 3. Input the desired text (and voice description, if applicable).
 4. Generate and listen to the audio output.
 
-### Sample Audio Output
+## License
+- **ai4bharat models**: Apache 2.0 (Permissive use)
+- **Facebook MMS-TTS models**: CC-BY-NC 4.0 (Non-commercial use only)
 
-- To check the generated audio output, you can listen to an example from the following:
+## Contributions
+If you’d like to contribute, feel free to submit pull requests or report issues.
 
-  **Local File:**
-  ```html
-  <audio controls src="./Samples/indic_tts_out.wav" title="Indic TTS Output"></audio>
+## Acknowledgments
+Special thanks to AI4Bharat and Facebook for providing open-source Indic TTS models for research and development.
+
