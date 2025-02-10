@@ -10,7 +10,7 @@ This repository provides an overview and implementation details of various Indic
 - **Supported Languages**: 20 Indic languages
 - **Inputs**: Text, Voice description
 - **Output**: Audio
-- **Output**: Audio <audio controls src="Samples/indic_tts_out.wav" title="Title"></audio>
+- **Output**: Audio <audio controls><source src="Samples/indic_tts_out.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 - **Results**:
   - ✅ Very natural and clear audio
   - ✅ Good accent
@@ -67,4 +67,3 @@ If you’d like to contribute, feel free to submit pull requests or report issue
 
 ## Acknowledgments
 Special thanks to AI4Bharat and Facebook for providing open-source Indic TTS models for research and development.
-
