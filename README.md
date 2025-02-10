@@ -12,7 +12,7 @@ This repository provides an overview and implementation details of various Indic
 - **Output**: Audio
 - **Sample**
 
- <audio controls><source src="Samples/indic_tts_out.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+<audio controls src="Samples/vits_rasa_13 Hin.wav" title="Title"></audio>
 
 - **Results**:
   - ✅ Very natural and clear audio
