@@ -10,6 +10,7 @@ This repository provides an overview and implementation details of various Indic
 - **Supported Languages**: 20 Indic languages
 - **Inputs**: Text, Voice description
 - **Output**: Audio
+- **Output**: Audio
 - **Results**:
   - ✅ Very natural and clear audio
   - ✅ Good accent
