@@ -13,6 +13,7 @@ This repository provides an overview and implementation details of various Indic
 - **Sample**
 
  <audio controls><source src="Samples/indic_tts_out.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+
 - **Results**:
   - ✅ Very natural and clear audio
   - ✅ Good accent
