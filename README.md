@@ -5,12 +5,13 @@ This repository provides an overview and implementation details of various Indic
 
 ## Available Models
 
-### 1. ai4bharat/indic-parler-tts
+## 1. ai4bharat/indic-parler-tts
 - **Size**: 3.8 GB
 - **Supported Languages**: 20 Indic languages
 - **Inputs**: Text, Voice description
 - **Output**: Audio
-- **Output**: Audio
+## Demo   
+<audio controls src="Samples/indic_tts_out.wav" title="Title"></audio>
 - **Results**:
   - ✅ Very natural and clear audio
   - ✅ Good accent
@@ -21,7 +22,7 @@ This repository provides an overview and implementation details of various Indic
 
 ---
 
-### 2. facebook/mms-tts-hin / facebook/mms-tts-guj
+## 2. facebook/mms-tts-hin / facebook/mms-tts-guj
 - **Size**: 150-160 MB
 - **Supported Languages**: Hindi (Separate models for other languages)
 - **Inputs**: Text
@@ -37,12 +38,20 @@ This repository provides an overview and implementation details of various Indic
 
 ---
 
-### 3. ai4bharat/vits_rasa_13
+## 3. ai4bharat/vits_rasa_13
 - **Size**: 170 MB
 - **Supported Languages**:
   - Assamese, Bengali, Bodo, Dogri, Kannada, Maithili, Malayalam, Marathi, Nepali, Punjabi, Sanskrit, Tamil, Telugu
 - **Inputs**: Text
 - **Output**: Audio
+## Demo
+### Marathi 
+<audio controls src="Samples/vits_rasa_13 Mr.wav" title="Title"></audio>
+### Hindi
+<audio controls src="Samples/vits_rasa_13 Hin.wav" title="Title"></audio>
+### Panjabi 
+<audio controls src="Samples/vits_rasa_13 Pun.wav" title="Title"></audio>
+
 - **Results**:
   - ✅ Clear audio
   - ✅ Mixed accent support
