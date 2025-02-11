@@ -14,7 +14,6 @@ This repository provides an overview and implementation details of various Indic
 
 <audio controls>
   <source src="https://github.com/build-ai-applications/Eval-TTS/blob/audio/Samples/indic_tts_out.wav" type="audio/wav">
-  Your browser does not support the audio element.
 </audio>
 
 - **Results**:
