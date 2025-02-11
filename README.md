@@ -12,7 +12,10 @@ This repository provides an overview and implementation details of various Indic
 - **Output**: Audio
 - **Sample**: 
 
-<video controls src="Samples/indic_tts_out.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/6e3b5d49-a0d5-465b-8ad4-e00d06d4c8d9
+
+
 
 - **Results**:
   - ✅ Very natural and clear audio
@@ -29,6 +32,10 @@ This repository provides an overview and implementation details of various Indic
 - **Supported Languages**: Hindi (Separate models for other languages)
 - **Inputs**: Text
 - **Output**: Audio
+- **Sample**:
+- 
+https://github.com/user-attachments/assets/350aa66d-9eab-447a-95b1-e9ce1ec6f538
+
 - **Results**:
   - ✅ Natural and clear audio
   - ✅ Small model size
@@ -46,6 +53,14 @@ This repository provides an overview and implementation details of various Indic
   - Assamese, Bengali, Bodo, Dogri, Kannada, Maithili, Malayalam, Marathi, Nepali, Punjabi, Sanskrit, Tamil, Telugu
 - **Inputs**: Text
 - **Output**: Audio
+- **Sample**:
+
+https://github.com/user-attachments/assets/7b277f57-64c7-47d6-a03b-ed7ced51856b
+
+
+https://github.com/user-attachments/assets/5c849558-5911-46a3-bdb5-1b38d9a05107
+
+
 - **Results**:
   - ✅ Clear audio
   - ✅ Mixed accent support
