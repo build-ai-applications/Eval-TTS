@@ -12,10 +12,7 @@ This repository provides an overview and implementation details of various Indic
 - **Output**: Audio
 - **Sample**: 
 
-
-https://github.com/user-attachments/assets/6e3b5d49-a0d5-465b-8ad4-e00d06d4c8d9
-
-
+<audio controls src="Samples/indic_tts_out.mp4" title="Title"></audio>
 
 - **Results**:
   - ✅ Very natural and clear audio
