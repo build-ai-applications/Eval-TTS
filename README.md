@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/6e3b5d49-a0d5-465b-8ad4-e00d06d4c8d9
 - **Inputs**: Text
 - **Output**: Audio
 - **Sample**:
-- 
+  
 https://github.com/user-attachments/assets/350aa66d-9eab-447a-95b1-e9ce1ec6f538
 
 - **Results**:
